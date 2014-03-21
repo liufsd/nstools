@@ -1,0 +1,7 @@
+刘蓬 编程  设置 启动 打开 关闭
+
+*__nst_defsub_testInput
+	return
+
+mov %__nst_base, 1001
+
