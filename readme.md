@@ -49,3 +49,6 @@ License: GPLv2
     直接执行 `python nstemplate.py` 获取帮助。
 
     运行 `python nstemplate.py nsttest.txt out.txt`，对比 `nsttext.txt` 和 `out.txt`.
+* 
+* 
+* Ting_trans_decode   中文转简体:
